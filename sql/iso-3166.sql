@@ -1,6 +1,6 @@
-BEGIN;
+DROP TABLE IF EXISTS subcountry;
 
-SET client_encoding TO 'UNICODE';
+DROP TABLE IF EXISTS country;
 
 CREATE TABLE country (
     name TEXT NOT NULL,
@@ -254,7 +254,7 @@ United States|US|840
 \.
 
 CREATE TABLE subcountry (
-    country TEXT NOT NULL REFERENCES country(two_letter),
+    country TEXT NOT NULL,
     subcountry_name TEXT NOT NULL,
     subdivision TEXT,
     subcountry_level TEXT,
@@ -4259,7 +4259,6 @@ ZW|MV|Masvingo|\N
 ZW|MW|Mashonaland West|\N
 \.
 
-COMMIT;
+SELECT * FROM country ORDER BY name;
 
-ANALYZE country;
-ANALYZE subcountry;
+SELECT country, subcountry_name, subdivision, subcountry_level FROM subcountry;
