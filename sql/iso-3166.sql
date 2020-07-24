@@ -4262,3 +4262,10 @@ ZW|MW|Mashonaland West|\N
 SELECT * FROM country ORDER BY name;
 
 SELECT country, subcountry_name, subdivision, subcountry_level FROM subcountry;
+
+SELECT * FROM country WHERE name > 'O' AND name < 'Q' ORDER BY name;
+
+SELECT c.name, sc.subdivision
+    FROM country AS c JOIN subcountry AS sc ON c.two_letter = sc.country
+    WHERE c.name < 'B'
+    ORDER BY name, subdivision;

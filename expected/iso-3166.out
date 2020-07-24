@@ -4245,3 +4245,292 @@ ZW|MS|Matabeleland South|
 ZW|MV|Masvingo|
 ZW|MW|Mashonaland West|
 (3995 rows)
+name|two_letter|country_id
+Oman|OM|512
+Pakistan|PK|586
+Palau|PW|585
+Palestinian Territory, Occupied|PS|275
+Panama|PA|591
+Papua New Guinea|PG|598
+Paraguay|PY|600
+Peru|PE|604
+Philippines|PH|608
+Pitcairn|PN|612
+Poland|PL|616
+Portugal|PT|620
+Puerto Rico|PR|630
+(13 rows)
+name|subdivision
+Afghanistan|Badakhshan
+Afghanistan|Badghis
+Afghanistan|Baghlan
+Afghanistan|Balkh
+Afghanistan|Bamian
+Afghanistan|Farah
+Afghanistan|Faryab
+Afghanistan|Ghazni
+Afghanistan|Ghowr
+Afghanistan|Helmand
+Afghanistan|Herat
+Afghanistan|Jowzjan
+Afghanistan|Kabul [Kabol]
+Afghanistan|Kandahar
+Afghanistan|Kapisa
+Afghanistan|Konar [Kunar]
+Afghanistan|Kondoz [Kunduz]
+Afghanistan|Laghman
+Afghanistan|Lowgar
+Afghanistan|Nangrahar [Nangarhar]
+Afghanistan|Nimruz
+Afghanistan|Oruzgan [Uruzgan]
+Afghanistan|Paktia
+Afghanistan|Paktika
+Afghanistan|Parwan
+Afghanistan|Samangan
+Afghanistan|Sar-e Pol
+Afghanistan|Takhar
+Afghanistan|Wardak [Wardag]
+Afghanistan|Zabol [Zabul]
+Albania|Berat
+Albania|Bulqizë
+Albania|Delvinë
+Albania|Devoll
+Albania|Dibër
+Albania|Durrës
+Albania|Elbasan
+Albania|Fier
+Albania|Gjirokastër
+Albania|Gramsh
+Albania|Has
+Albania|Kavajë
+Albania|Kolonjë
+Albania|Korçë
+Albania|Krujë
+Albania|Kukës
+Albania|Kurbin
+Albania|Kuçovë
+Albania|Lezhë
+Albania|Librazhd
+Albania|Lushnjë
+Albania|Mallakastër
+Albania|Malësi e Madhe
+Albania|Mat
+Albania|Mirditë
+Albania|Peqin
+Albania|Pogradec
+Albania|Pukë
+Albania|Përmet
+Albania|Sarandë
+Albania|Shkodër
+Albania|Skrapar
+Albania|Tepelenë
+Albania|Tiranë
+Albania|Tropojë
+Albania|Vlorë
+Algeria|Adrar
+Algeria|Alger
+Algeria|Annaba
+Algeria|Aïn Defla
+Algeria|Aïn Témouchent
+Algeria|Batna
+Algeria|Biskra
+Algeria|Blida
+Algeria|Bordj Bou Arréridj
+Algeria|Bouira
+Algeria|Boumerdès
+Algeria|Béchar
+Algeria|Béjaïa
+Algeria|Chlef
+Algeria|Constantine
+Algeria|Djelfa
+Algeria|El Bayadh
+Algeria|El Oued
+Algeria|El Tarf
+Algeria|Ghardaïa
+Algeria|Guelma
+Algeria|Illizi
+Algeria|Jijel
+Algeria|Khenchela
+Algeria|Laghouat
+Algeria|Mascara
+Algeria|Mila
+Algeria|Mostaganem
+Algeria|Msila
+Algeria|Médéa
+Algeria|Naama
+Algeria|Oran
+Algeria|Ouargla
+Algeria|Oum el Bouaghi
+Algeria|Relizane
+Algeria|Saïda
+Algeria|Sidi Bel Abbès
+Algeria|Skikda
+Algeria|Souk Ahras
+Algeria|Sétif
+Algeria|Tamanghasset
+Algeria|Tiaret
+Algeria|Tindouf
+Algeria|Tipaza
+Algeria|Tissemsilt
+Algeria|Tizi Ouzou
+Algeria|Tlemcen
+Algeria|Tébessa
+American Samoa|
+Andorra|Andorra la Vella
+Andorra|Canillo
+Andorra|Encamp
+Andorra|Escaldes-Engordany
+Andorra|La Massana
+Andorra|Ordino
+Andorra|Sant Julià de Lòria
+Angola|Bengo
+Angola|Benguela
+Angola|Bié
+Angola|Cabinda
+Angola|Cuando-Cubango
+Angola|Cuanza Norte
+Angola|Cuanza Sul
+Angola|Cunene
+Angola|Huambo
+Angola|Huíla
+Angola|Luanda
+Angola|Lunda Norte
+Angola|Lunda Sul
+Angola|Malange
+Angola|Moxico
+Angola|Namibe
+Angola|Uíge
+Angola|Zaire
+Anguilla|
+Antarctica|
+Antigua and Barbuda|
+Argentina|Buenos Aires
+Argentina|Capital federal
+Argentina|Catamarca
+Argentina|Chaco
+Argentina|Chubut
+Argentina|Corrientes
+Argentina|Córdoba
+Argentina|Entre Ríos
+Argentina|Formosa
+Argentina|Jujuy
+Argentina|La Pampa
+Argentina|La Rioja
+Argentina|Mendoza
+Argentina|Misiones
+Argentina|Neuquén
+Argentina|Río Negro
+Argentina|Salta
+Argentina|San Juan
+Argentina|San Luis
+Argentina|Santa Cruz
+Argentina|Santa Fe
+Argentina|Santiago del Estero
+Argentina|Tierra del Fuego
+Argentina|Tucumán
+Armenia|Aragacotn
+Armenia|Ararat
+Armenia|Armavir
+Armenia|Erevan
+Armenia|Gegark'unik'
+Armenia|Kotayk'
+Armenia|Lory
+Armenia|Syunik'
+Armenia|Tavuš
+Armenia|Vayoc Jor
+Armenia|Širak
+Aruba|
+Australia|Australian Capital Territory
+Australia|New South Wales
+Australia|Northern Territory
+Australia|Queensland
+Australia|South Australia
+Australia|Tasmania
+Australia|Victoria
+Australia|Western Australia
+Austria|Burgenland
+Austria|Kärnten
+Austria|Niederösterreich
+Austria|Oberösterreich
+Austria|Salzburg
+Austria|Steiermark
+Austria|Tirol
+Austria|Vorarlberg
+Austria|Wien
+Azerbaijan|Abseron
+Azerbaijan|Agcabädi
+Azerbaijan|Agdam
+Azerbaijan|Agdas
+Azerbaijan|Agstafa
+Azerbaijan|Agsu
+Azerbaijan|Astara
+Azerbaijan|Babäk
+Azerbaijan|Baki
+Azerbaijan|Balakän
+Azerbaijan|Beyläqan
+Azerbaijan|Biläsuvar
+Azerbaijan|Bärdä
+Azerbaijan|Culfa
+Azerbaijan|Cäbrayil
+Azerbaijan|Cälilabab
+Azerbaijan|Daskäsän
+Azerbaijan|Däväçi
+Azerbaijan|Füzuli
+Azerbaijan|Goranboy
+Azerbaijan|Gädäbäy
+Azerbaijan|Gäncä
+Azerbaijan|Göyçay
+Azerbaijan|Haciqabul
+Azerbaijan|Imisli
+Azerbaijan|Ismayilli
+Azerbaijan|Kälbäcär
+Azerbaijan|Kürdämir
+Azerbaijan|Laçin
+Azerbaijan|Lerik
+Azerbaijan|Länkäran
+Azerbaijan|Länkäran
+Azerbaijan|Masalli
+Azerbaijan|Mingäçevir
+Azerbaijan|Naftalan
+Azerbaijan|Neftçala
+Azerbaijan|Oguz
+Azerbaijan|Ordubad
+Azerbaijan|Qax
+Azerbaijan|Qazax
+Azerbaijan|Qobustan
+Azerbaijan|Quba
+Azerbaijan|Qubadli
+Azerbaijan|Qusar
+Azerbaijan|Qäbälä
+Azerbaijan|Saatli
+Azerbaijan|Sabirabad
+Azerbaijan|Sahbuz
+Azerbaijan|Salyan
+Azerbaijan|Samaxi
+Azerbaijan|Samux
+Azerbaijan|Siyäzän
+Azerbaijan|Sumqayit
+Azerbaijan|Susa
+Azerbaijan|Susa
+Azerbaijan|Sädäräk
+Azerbaijan|Säki
+Azerbaijan|Säki
+Azerbaijan|Sämkir
+Azerbaijan|Särur
+Azerbaijan|Tovuz
+Azerbaijan|Tärtär
+Azerbaijan|Ucar
+Azerbaijan|Xankändi
+Azerbaijan|Xanlar
+Azerbaijan|Xaçmaz
+Azerbaijan|Xizi
+Azerbaijan|Xocali
+Azerbaijan|Xocavänd
+Azerbaijan|Yardimli
+Azerbaijan|Yevlax
+Azerbaijan|Yevlax
+Azerbaijan|Zaqatala
+Azerbaijan|Zängilan
+Azerbaijan|Zärdab
+Azerbaijan|Äli Bayramli
+(272 rows)
