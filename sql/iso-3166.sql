@@ -254,7 +254,7 @@ United States|US|840
 \.
 
 CREATE TABLE subcountry (
-    country TEXT NOT NULL,
+    country TEXT NOT NULL REFERENCES country(two_letter),
     subcountry_name TEXT NOT NULL,
     subdivision TEXT,
     subcountry_level TEXT,
